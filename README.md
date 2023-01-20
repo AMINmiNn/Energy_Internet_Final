@@ -2,7 +2,7 @@
 ## The final project of Introduction of Energy Internet(2022-Spring)  
 **Basic Assignment**:Based on skleran,try to find a best model to give an accurate prediction of the PV and the wind power output while the interpretation of the model is required.  
 **Furthur Task**:Search for publications and find a feasible method to give the probability prediction.  
-**And this model got a score of 4.0/4.0 finally**.  
+**And this project got a score of 4.0/4.0 finally**.  
 **Co-authors:Liangyuchen LU、Bowen Su、Min Yang**
   
   
